@@ -109,7 +109,7 @@
 
     <!--    <v-layout row wrap>
       <v-flex xs12 sm6 md6 lg12 class="text-xs-center text-center">
-        <h2 class="dark--text">
+        <h2 class="black--text">
           Don't you have an account yet? .
           <v-btn text class="ma-2" rounded color="primary" to="/signup" dark>
             Register here
